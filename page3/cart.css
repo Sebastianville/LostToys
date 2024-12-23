@@ -1,0 +1,48 @@
+ 
+body {
+    background-color: #FDF0D5;
+    color: #003049;
+}
+
+.card > img{
+    height: 250px;
+}
+.nav-tabs {
+    background-color: #003049;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+    
+.nav-tabs .nav-link {
+    color: #FDF0D5;
+    font-weight: bold;
+}
+    
+.nav-tabs .nav-link.active {
+    background-color: #FDF0D5;
+    color: #003049;
+    border-radius: 5px;
+}
+    
+.nav-tabs .nav-link:hover {
+    color: #FDF0D5;
+    text-decoration: underline;
+}
+    
+.dropdown-menu {
+    background-color: #003049;
+}
+    
+ .dropdown-item {
+    color: #FDF0D5;
+}
+    
+.dropdown-item:hover {
+    background-color: #FDF0D5;
+    color: #003049;
+}
+    
+   
+h1 {
+    color: #003049;
+}

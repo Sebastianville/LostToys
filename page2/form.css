@@ -1,0 +1,55 @@
+body {
+    background-color: #FDF0D5;
+    color: #003049;
+}
+
+.navbar {
+    background-color: #003049;
+}
+
+.navbar a {
+    color: #FDF0D5 !important;
+}
+
+.navbar a:hover {
+    color: #FFB703 !important;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+    color: #003049;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #003049;
+    border-color: #003049;
+}
+
+.btn-primary:hover {
+    background-color: #FFB703;
+    border-color: #FFB703;
+}
+
+.btn-outline-success {
+    color: #003049;
+    border-color: #003049;
+}
+
+.btn-outline-success:hover {
+    color: #FDF0D5;
+    background-color: #003049;
+}
+
+h2 {
+    color: #003049;
+    margin-top: 30px;
+    font-weight: bold;
+}

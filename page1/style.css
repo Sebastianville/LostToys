@@ -1,0 +1,57 @@
+.card > img{
+    height: 250px;
+}
+
+body {
+    background-color: #FDF0D5;
+    color: #003049;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #003049;
+}
+
+.navbar a {
+    color: #FDF0D5;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #FFB703;
+}
+
+.hero-section {
+    background-color: #003049;
+    color: #FDF0D5;
+    padding: 30px 15px;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.btn-primary {
+    background-color: #003049;
+    border-color: #003049;
+}
+
+.btn-primary:hover {
+    background-color: #FFB703;
+    border-color: #FFB703;
+}
+
+table th, table td {
+    text-align: center;
+}
+
+hr {
+    border-top: 2px solid #003049;
+}
